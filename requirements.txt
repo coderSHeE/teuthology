@@ -81,8 +81,8 @@ dogpile.cache==1.1.3
     # via openstacksdk
 filelock==3.0.12
     # via
-    #   tox
-    #   virtualenv
+    # tox
+    # virtualenv
 gevent==21.8.0
     # via teuthology
 greenlet==1.1.0
@@ -99,11 +99,11 @@ ipy==1.1
     # via teuthology
 iso8601==0.1.16
     # via
-    #   keystoneauth1
-    #   openstacksdk
-    #   oslo.utils
-    #   python-novaclient
-    #   python-openstackclient
+    #  keystoneauth1
+    #  openstacksdk
+    #  oslo.utils
+    #  python-novaclient
+    #  python-openstackclient
 jinja2==3.0.1
     # via ansible
 jmespath==0.10.0
@@ -117,11 +117,11 @@ jsonpointer==2.1
     # via jsonpatch
 keystoneauth1==4.3.1
     # via
-    #   openstacksdk
-    #   osc-lib
-    #   python-cinderclient
-    #   python-keystoneclient
-    #   python-novaclient
+    #  openstacksdk
+    #  osc-lib
+    #  python-cinderclient
+    #  python-keystoneclient
+    #  python-novaclient
 manhole==1.8.0
     # via teuthology
 markupsafe==2.0.1
